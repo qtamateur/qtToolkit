@@ -1,0 +1,33 @@
+[33mcommit 7c485e8e610c10d9ed5c57743d4196857a17219b[m
+Author: Xiaodong_Wang <dongzhixiaodong@gmail.com>
+Date:   Tue Feb 9 10:27:05 2016 +0800
+
+    Revert "Revert "Android_log""
+    
+    This reverts commit 4d31e35d194ca0e256fb567ba973392aec97f3da.
+
+[33mcommit 4d31e35d194ca0e256fb567ba973392aec97f3da[m
+Author: Xiaodong_Wang <dongzhixiaodong@gmail.com>
+Date:   Tue Feb 9 10:26:36 2016 +0800
+
+    Revert "Android_log"
+    
+    This reverts commit ea91ae9d82d7cfb863bd1ad42e48a9a9b8272c7c.
+
+[33mcommit ea91ae9d82d7cfb863bd1ad42e48a9a9b8272c7c[m
+Author: Xiaodong_Wang <dongzhixiaodong@gmail.com>
+Date:   Tue Feb 9 10:26:27 2016 +0800
+
+    Android_log
+
+[33mcommit 850078c78eb8906db9a54965bf5fa1c0761a68e1[m
+Author: Xiaodong_Wang <dongzhixiaodong@gmail.com>
+Date:   Tue Feb 9 09:19:01 2016 +0800
+
+    easyLogPro
+
+[33mcommit 02c2d3da3bfd52fc59329a07819c9c1c8bf4fa7f[m
+Author: Xiaodong_Wang <dongzhixiaodong@gmail.com>
+Date:   Tue Feb 9 09:17:06 2016 +0800
+
+    :tada: Added .gitattributes & .gitignore files
